@@ -1,0 +1,42 @@
+.mdi{
+    color: palevioletred;
+    size: 50px;
+}
+
+.card{
+    width: 50%;
+    border: 1px solid palevioletred;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 7px 7px 0 0 pink;
+}
+
+h2, p{
+    margin: 0%;
+}
+
+.card:hover{
+    box-shadow: 7px 7px 0 0 pink;
+}
+
+.card-header {
+    display: flex;
+    border-bottom: 1px solid palevioletred;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+}
+
+.btn{
+    border:none;
+    background: #EEAECA;
+background: radial-gradient(circle, rgba(238, 174, 202, 1) 0%, rgba(148, 187, 233, 1) 100%);
+    color:white ;
+    padding: 10px;
+    border-radius: 100px;
+}
+
+.btn:hover{
+    background: #3F5EFB;
+background: radial-gradient(circle, rgba(63, 94, 251, 1) 0%, rgba(252, 70, 107, 1) 100%);
+    cursor: pointer;
+}
