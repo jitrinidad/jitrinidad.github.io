@@ -1,0 +1,124 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    margin: 0;
+    position: relative;
+    left: 50px;
+    margin-top: 10px;
+}
+main{
+    display: flex;
+    margin: 0;
+}
+.header{
+    border-bottom: 1px solid rgb(0, 0, 0);
+    margin: 0;
+    background-color: rgb(40, 55, 75);
+    margin-top: 10px;
+}
+.header {
+    display: flex;
+    margin: 0;
+    color:white;
+}   
+.material-symbols-outlined{
+    margin: 0;
+    margin-top: 17px;;
+    position: relative;
+    left: 50px;
+   
+}
+.btn-Home{
+    background-color: green;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 10px;
+    border: none; 
+    position: relative;
+    left: 70%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.btn{
+    background-color: transparent;
+    color:white;
+    padding: 10px 20px;
+    border-radius: 20px;
+    border: none;
+    position: relative;
+    left: 70%;
+    margin-top: 10px;
+}
+.btn-Home:hover{
+    background-color: rgb(50, 180, 108);
+    cursor: pointer;
+}
+.btn:hover{
+    cursor: pointer;
+}
+.buttons{
+    position: relative;
+    left: 50%;
+}
+body{
+    margin:0;
+}
+h3, h2{
+    margin: 10px;
+}
+
+.right-header{
+    display: flex;
+    margin-left: auto;
+    margin-top: 4px;
+}
+img{
+    width: 50%;
+}
+
+.card-form{
+    display: flex;
+    background-color: #e4dddd;
+    gap: 50px;
+}
+.head2{
+    text-align: center;
+}
+.sub{
+    background-color: green;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 10px;
+    border: none; 
+}
+.sub:hover{
+    background-color: rgb(50, 180, 108);
+    cursor: pointer;
+}
+.state{
+    position: relative;
+    left: 20%
+}
+h1, p{
+    text-align: center;
+}
+.img2{
+    width: 30%;
+    height: 20%;
+    text-align: left;
+    border: black 1px;
+    display: flexbox;
+}
+.img3{
+    width: 30%;
+    height: 20%;
+    text-align: center
+}
+.img4{
+    width: 30%;
+    height: 20%;
+    align-items: ;
+    display: flexbox;
+}
